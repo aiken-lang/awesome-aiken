@@ -27,6 +27,7 @@
 ## Dapps
 
 - [Nebula](https://github.com/spacebudz/nebula/tree/main/contract/src/nebula) - A Cardano NFT marketplace contract including chain indexer and event listener for individual projects
+- [Aada Finance](https://github.com/aadafinance/aada_v1_aiken/) - Lending and Borrowing
 
 ## Tutorials/Examples
 
