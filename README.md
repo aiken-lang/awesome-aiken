@@ -34,6 +34,7 @@
 - [Hello, World!](https://aiken-lang.org/example--hello-world) - Write and execute a smart contract on Cardano in 10 minutes
 - [Vesting](https://aiken-lang.org/example--vesting) - Learn how to work with time
 - [Gift Card](https://aiken-lang.org/example--gift-card) - Make gift cards using NFTs using Aiken and Deno fresh
+- [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) - A similar gift card example but with NextJS
 
 ## Videos
 
