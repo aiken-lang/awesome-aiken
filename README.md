@@ -35,6 +35,7 @@
 - [Vesting](https://aiken-lang.org/example--vesting) - Learn how to work with time
 - [Gift Card](https://aiken-lang.org/example--gift-card) - Make gift cards using NFTs using Aiken and Deno fresh
 - [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) - A similar gift card example but with NextJS
+- [Maestro Dapps Tutorials](https://github.com/maestro-org/dapp-platform-tutorials/tree/main/bets)
 
 ## Videos
 
