@@ -28,6 +28,8 @@
 
 - [Nebula](https://github.com/spacebudz/nebula/tree/main/contract/src/nebula) - A Cardano NFT marketplace contract including chain indexer and event listener for individual projects
 - [Aada Finance](https://github.com/aadafinance/aada_v1_aiken/) - Lending and Borrowing
+- [morbid](https://github.com/ariady-putra/morbid) - A dead-man's switch contract
+- [Projected NFT Whirlpool](https://github.com/dcSpark/projected-nft-whirlpool) - A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody
 
 ## Tutorials/Examples
 
