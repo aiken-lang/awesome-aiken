@@ -23,6 +23,7 @@
 
 - [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The official standard library
 - [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) - Extensions to the standard library
+- [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) - Several reusable Aiken libraries
 
 ## Dapps
 
