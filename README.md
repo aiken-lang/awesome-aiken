@@ -35,6 +35,7 @@
 - [Projected NFT Whirlpool](https://github.com/dcSpark/projected-nft-whirlpool) - A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody
 - [Levvy](https://levvy.fi/) - NFT based lending and borrowing
 - [Danogo](https://danogo.io/) - Decentralized Bond Exchange
+- [Fortuna](https://github.com/aiken-lang/fortuna) - A Smart Contract that mimics bitcoin proof of work
 
 
 ## Tutorials/Examples
