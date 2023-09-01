@@ -37,6 +37,7 @@
 - [Danogo](https://danogo.io/) - Decentralized Bond Exchange
 - [Fortuna](https://github.com/aiken-lang/fortuna) - A Smart Contract that mimics bitcoin proof of work
 - [Mehen](https://mehen.io) - Fiat-backed stable coin
+- [ENCOINS](https://github.com/encryptedcoins/encoins-core-aiken) - An NFT-based private transaction protocol
 
 
 ## Tutorials/Examples
