@@ -38,6 +38,7 @@
 - [Fortuna](https://github.com/aiken-lang/fortuna) - A Smart Contract that mimics bitcoin proof of work
 - [Mehen](https://mehen.io) - Fiat-backed stable coin
 - [ENCOINS](https://github.com/encryptedcoins/encoins-core-aiken) - An NFT-based private transactions protocol
+- [SundaeSwap Yield Farming v2](https://github.com/SundaeSwap-finance/sundae-yield-v2) - SundaeSwap Yield Farming v2 contracts
 
 
 ## Tutorials/Examples
