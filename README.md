@@ -51,6 +51,7 @@
 - [Logical Mechanism's Distributed Representation](https://github.com/logicalmechanism/distributed_representation) - A model semi-liquid `mint-lock-stake` DAO
 - [Logical Mechanism's Convert Expression](https://github.com/logicalmechanism/convert-expression) - A novel variation of a Schnorr protocol
 - [From Aiken to frontend deployment](https://meshjs.dev/guides/aiken) - A end-to-end guide from writing a Aiken smart contract, to creating transactions, to deploying a frontend to interact with it. See also [demo](https://aiken-next-ts-template.vercel.app/) and [repo](https://github.com/MeshJS/aiken-next-ts-template).
+- [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 
 ## Videos
 
