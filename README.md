@@ -42,6 +42,9 @@
 - [SundaeSwap Yield Farming v2](https://github.com/SundaeSwap-finance/sundae-yield-v2) - SundaeSwap Yield Farming v2 contracts
 - [unLearn](https://github.com/Astodialo/unLearn) - Modular governance framework
 
+## Games
+
+- [Tetrano](https://tetrano.net) - Tetris style puzzle game on Cardano
 
 ## Tutorials/Examples
 
