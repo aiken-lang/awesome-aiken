@@ -29,6 +29,7 @@
 
 ## Dapps
 
+- [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) - DEX
 - [Jpg Store](https://github.com/jpg-store/contracts-v3) - NFT Marketplace
 - [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) - Lending and Borrowing
 - [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) - DEX
