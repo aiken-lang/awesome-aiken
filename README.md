@@ -6,7 +6,7 @@
 
 ---
 
-> **Note**
+> [!TIP]
 >
 > Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) that adds your project to this list :heart:!
 
