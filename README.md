@@ -26,7 +26,7 @@
 - [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) - Several reusable Aiken libraries
 - [Logical Mechanism/assist](https://github.com/logicalmechanism/assist) - A collection of specialized Aiken functions.
 - [aiken-extra](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
-- [sidan-lab/aiken-utils](https://github.com/sidan-lab/aiken-utils) - Offer validation utils and similar to offchain code building experience framework for unit testing.
+- [sidan-lab/vodka](https://github.com/sidan-lab/vodka) - Offer validation utils and similar to offchain code building experience framework for unit testing.
 
 ## Dapps
 
