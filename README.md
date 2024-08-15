@@ -56,12 +56,7 @@
 - [Vesting](https://aiken-lang.org/example--vesting) - Learn how to work with time
 - [Gift Card](https://aiken-lang.org/example--gift-card) - Make gift cards using NFTs using Aiken and Deno fresh
 - [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) - A similar gift card example but with NextJS
-- [Gift Card MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/giftcard) - Gift card contract with full integration with MeshJS, offering code example and explanation.
-- [Escrow MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/escrow) - Escrow contract with full integration with MeshJS, offering code example and explanation.
-- [Marketplace MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/marketplace) - Cardano native token marketplace contract with full integration with MeshJS, offering code example and explanation.
-- [Payment Splitter MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/coupon-bond-guaranteed) - Payment splitter contract with full integration with MeshJS, offering code example and explanation.
-- [Simple Swap MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/swap) - Simple swap contract for token exchange with full integration with MeshJS, offering code example and explanation.
-- [Vesting Contract MeshJS](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src/vesting) - Vesting contract for token exchange with full integration with MeshJS, offering code example and explanation.
+- [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
 - [Maestro Dapps Tutorials](https://github.com/maestro-org/dapp-platform-tutorials/tree/main/bets)
 - [Logical Mechanism's Distributed Representation](https://github.com/logicalmechanism/distributed_representation) - A model semi-liquid `mint-lock-stake` DAO
 - [Logical Mechanism's Convert Expression](https://github.com/logicalmechanism/convert-expression) - A novel variation of a Schnorr protocol
