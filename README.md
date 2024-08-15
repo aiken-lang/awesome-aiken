@@ -21,33 +21,63 @@
 
 ## Libraries
 
+#### Infrastructure
+
+- [aiken-lang/setup-aiken](https://github.com/aiken-lang/setup-aiken) - A GitHub action for installing and using Aiken in Github Workflows
+
+#### Standard library & extras 
+
 - [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The official standard library
 - [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) - Extensions to the standard library
 - [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) - Several reusable Aiken libraries
-- [Logical Mechanism/assist](https://github.com/logicalmechanism/assist) - A collection of specialized Aiken functions.
-- [aiken-extra](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
+- [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) - A collection of specialized Aiken functions.
+- [aiken-extra/*](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
+
+#### Cryptography 
+
+- [ilap/bls](https://github.com/ilap/bls) - High-level BLS12-381 cryptographic functions 
+
+#### Data-structures
+
+- [aiken-lang/merkle-patricia-forestry](https://github.com/aiken-lang/merkle-patricia-forestry) - For working with modified Merkle Patricia Tries (on-chain & off-chain): a persistent & authenticated data structure to map between arbitrary keys and values.
+
+#### Testing
+
+- [aiken-lang/fuzz](https://github.com/aiken-lang/fuzz) - For writing Fuzzers (a.k.a generators) for property-based testing in Aiken 
+- [sidan-lab/vodka](https://github.com/sidan-lab/vodka) - Offer validation utils and similar to offchain code building experience framework for unit testing.
 
 ## Dapps
 
+#### DeFi
+
 - [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) - DEX
 - [Minswap V2](https://github.com/minswap/minswap-dex-v2) - DEX
-- [Jpg Store](https://github.com/jpg-store/contracts-v3) - NFT Marketplace
-- [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) - Lending and Borrowing
 - [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) - DEX
-- [Nebula](https://github.com/spacebudz/nebula/tree/main/contract/src/nebula) - A Cardano NFT marketplace contract including chain indexer and event listener for individual projects
-- [morbid](https://github.com/ariady-putra/morbid) - A dead-man's switch contract
-- [Projected NFT Whirlpool](https://github.com/dcSpark/projected-nft-whirlpool) - A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody
+- [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) - Lending and Borrowing
 - [Levvy](https://levvy.fi/) - NFT based lending and borrowing
 - [Danogo](https://danogo.io/) - Decentralized Bond Exchange
-- [Fortuna](https://github.com/aiken-lang/fortuna) - A Smart Contract that mimics bitcoin proof of work
 - [Mehen](https://mehen.io) - Fiat-backed stable coin
-- [ENCOINS](https://github.com/encryptedcoins/encoins-core-aiken) - An NFT-based private transactions protocol
 - [SundaeSwap Yield Farming v2](https://github.com/SundaeSwap-finance/sundae-yield-v2) - SundaeSwap Yield Farming v2 contracts
+
+#### Marketplaces
+
+- [Jpg Store](https://github.com/jpg-store/contracts-v3) - NFT Marketplace
+- [Nebula](https://github.com/spacebudz/nebula/tree/main/contract/src/nebula) - A Cardano NFT marketplace contract including chain indexer and event listener for individual projects
+
+#### Governance
+
 - [unLearn](https://github.com/Astodialo/unLearn) - Modular governance framework
 
-## Games
+#### Games
 
 - [Tetrano](https://tetrano.net) - Tetris style puzzle game on Cardano
+
+#### Misc
+
+- [Fortuna](https://github.com/cardano-miners/fortuna) - A Smart Contract that mimics bitcoin proof of work
+- [morbid](https://github.com/ariady-putra/morbid) - A dead-man's switch contract
+- [Projected NFT Whirlpool](https://github.com/dcSpark/projected-nft-whirlpool) - A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody
+- [ENCOINS](https://github.com/encryptedcoins/encoins-core-aiken) - An NFT-based private transactions protocol
 
 ## Tutorials/Examples
 
@@ -55,6 +85,7 @@
 - [Vesting](https://aiken-lang.org/example--vesting) - Learn how to work with time
 - [Gift Card](https://aiken-lang.org/example--gift-card) - Make gift cards using NFTs using Aiken and Deno fresh
 - [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) - A similar gift card example but with NextJS
+- [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
 - [Maestro Dapps Tutorials](https://github.com/maestro-org/dapp-platform-tutorials/tree/main/bets)
 - [Logical Mechanism's Distributed Representation](https://github.com/logicalmechanism/distributed_representation) - A model semi-liquid `mint-lock-stake` DAO
 - [Logical Mechanism's Convert Expression](https://github.com/logicalmechanism/convert-expression) - A novel variation of a Schnorr protocol
@@ -62,6 +93,7 @@
 - [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 - [Cardano Recorded Mint](https://github.com/keyan-m/cardano-recorded-mint) - A proof-of-concept for a minting script with historical record of all mints, and on-chain guarantee of uniqueness.
 - [Gimbalabs Aiken Essentials Module](https://plutuspbl.io/modules/303/slts) - Learn Aiken from scratch and develop your skills with hands-on exercises and mini-projects.
+- [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) - A collection of tried and tested modules and functions for implementing common design patterns.
 - [CIP 102 Reference Implementation](https://github.com/SamDelaney/CIP_102_Reference) - Official examples for implementing CIP-102 based royalties, made by the CIP's author.
 
 ## Videos
