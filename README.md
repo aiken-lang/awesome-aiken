@@ -66,6 +66,10 @@
 - [Jpg Store](https://github.com/jpg-store/contracts-v3) - NFT Marketplace
 - [Nebula](https://github.com/spacebudz/nebula/tree/main/contract/src/nebula) - A Cardano NFT marketplace contract including chain indexer and event listener for individual projects
 
+#### Smart Wallets
+
+- [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) A Cardano Stealth Wallet
+
 #### Governance
 
 - [unLearn](https://github.com/Astodialo/unLearn) - Modular governance framework
