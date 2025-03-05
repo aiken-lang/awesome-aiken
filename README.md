@@ -41,7 +41,7 @@
 
 - [aiken-lang/merkle-patricia-forestry](https://github.com/aiken-lang/merkle-patricia-forestry) - For working with modified Merkle Patricia Tries (on-chain & off-chain): a persistent & authenticated data structure to map between arbitrary keys and values.
 - [anastasia-labs/aiken-linked-list](https://github.com/Anastasia-Labs/aiken-linked-list) - For working with onchain distributed linked lists (on-chain): each node in the linked list is represented by a single UTxO (and thus concurrency scales with utilization, the larger the linked list, the lower the probability of experiencing UTxO contention).
-- [anastasia-labs/aiken-trie] - For working with distributed tries (on-chain & off-chain): each trie is fully-contained within a UTxO, and it supports managing multiple distributed tries with a single validator.
+- [anastasia-labs/aiken-trie](https://github.com/Anastasia-Labs/aiken-trie) - For working with distributed tries (on-chain & off-chain): each trie is fully-contained within a UTxO, and it supports managing multiple distributed tries with a single validator.
   
 #### Testing
 
