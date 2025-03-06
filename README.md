@@ -98,8 +98,10 @@
 - [From Aiken to frontend deployment](https://meshjs.dev/guides/aiken) - A end-to-end guide from writing a Aiken smart contract, to creating transactions, to deploying a frontend to interact with it. See also [demo](https://aiken-next-ts-template.vercel.app/) and [repo](https://github.com/MeshJS/aiken-next-ts-template).
 - [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 - [Cardano Recorded Mint](https://github.com/keyan-m/cardano-recorded-mint) - A proof-of-concept for a minting script with historical record of all mints, and on-chain guarantee of uniqueness.
+- [Gimbalabs Aiken Essentials Module](https://plutuspbl.io/modules/303/slts) - Learn Aiken from scratch and develop your skills with hands-on exercises and mini-projects.
 - [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) - A collection of tried and tested modules and functions for implementing common design patterns.
-  
+- [CIP 102 Reference Implementation](https://github.com/SamDelaney/CIP_102_Reference) - Official examples for implementing CIP-102 based royalties, made by the CIP's author.
+
 ## Videos
 
 - [NerdOut's Aiken edition](https://www.youtube.com/watch?v=9wbQ33uzwsc&pp=ygUNQWlrZW4gY2FyZGFubw%3D%3D) - A high-level presentation of Aiken <sup> ~11 min</sup>
