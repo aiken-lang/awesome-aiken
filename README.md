@@ -90,6 +90,7 @@
 - [Hello, World!](https://aiken-lang.org/example--hello-world) - Write and execute a smart contract on Cardano in 10 minutes
 - [Vesting](https://aiken-lang.org/example--vesting) - Learn how to work with time
 - [Gift Card](https://aiken-lang.org/example--gift-card) - Make gift cards using NFTs using Aiken and Deno fresh
+- [Good Practices](https://github.com/francolq/aiken-good-practices)
 - [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) - A similar gift card example but with NextJS
 - [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
 - [Maestro Dapps Tutorials](https://github.com/maestro-org/dapp-platform-tutorials/tree/main/bets)
