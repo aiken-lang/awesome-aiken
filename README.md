@@ -102,6 +102,10 @@
 - [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) - A collection of tried and tested modules and functions for implementing common design patterns.
 - [CIP 102 Reference Implementation](https://github.com/SamDelaney/CIP_102_Reference) - Official examples for implementing CIP-102 based royalties, made by the CIP's author.
 
+## Books
+
+- [I can Aiken](https://book.io/book/i-can-aiken/) - A book for Aiken newcomers. Contact @johnnygreeney for a free book (x.com/cardanobook)
+- 
 ## Videos
 
 - [NerdOut's Aiken edition](https://www.youtube.com/watch?v=9wbQ33uzwsc&pp=ygUNQWlrZW4gY2FyZGFubw%3D%3D) - A high-level presentation of Aiken <sup> ~11 min</sup>
