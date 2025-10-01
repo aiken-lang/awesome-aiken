@@ -105,7 +105,11 @@
 ## Books
 
 - [I can Aiken](https://book.io/book/i-can-aiken/) - A book for Aiken newcomers. Contact @johnnygreeney for a free book (x.com/cardanobook)
-- 
+
+## Courses
+
+- [Aiken - eUTxO smart contracts on Cardano](https://cardanofoundation.org/academy/course/aiken-eutxo-smart-contracts-cardano) - A 4-hour video course about Aiken, self-paced, on-demand and free. Created by the Cardano Academy
+
 ## Videos
 
 - [NerdOut's Aiken edition](https://www.youtube.com/watch?v=9wbQ33uzwsc&pp=ygUNQWlrZW4gY2FyZGFubw%3D%3D) - A high-level presentation of Aiken <sup> ~11 min</sup>
