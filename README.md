@@ -15,6 +15,7 @@
 # Awesome Aiken
 
 - [Libraries](#Libraries)
+- [Tools](#Tools)
 - [Dapps](#Dapps)
 - [Tutorials/Examples](#tutorialsexamples)
 - [Videos](#Videos)
@@ -47,6 +48,12 @@
 
 - [aiken-lang/fuzz](https://github.com/aiken-lang/fuzz) - For writing Fuzzers (a.k.a generators) for property-based testing in Aiken 
 - [sidan-lab/vodka](https://github.com/sidan-lab/vodka) - Offer validation utils and similar to offchain code building experience framework for unit testing.
+
+## Tools
+
+#### Security
+
+- [Aikido](https://github.com/Bajuzjefe/Aikido-Security-Analysis-Platform) - Static security analyzer for Aiken smart contracts. 75 vulnerability detectors, CWC classification, and MCP server for AI-assisted auditing.
 
 ## Dapps
 
